@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1>Hi, I'm Victoria Farias, QA Tester 👋</h1>
+<img width="1624" height="640" alt="jk_studio-blogging-7308532 (1)" src="https://github.com/user-attachments/assets/3753fb8f-7538-43d2-9944-317535883503" />
 
 <!--
 **bug-hunterTester/bug-hunterTester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
