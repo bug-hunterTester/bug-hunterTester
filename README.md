@@ -5,11 +5,14 @@
   <h2>This is my Portfolio where I'll be sharing all my projects.</h2>
 </div>
 
-## My Skills and Tools
-Manual Testing and Test Case Managment
-Automation
-API Testing
-Database
+<h2>My Skills and Tools</h2>
+
+Manual Testing and Test Case Managment<br>
+Automation<br>
+API Testing<br>
+Databases
+
+
 
 
 <!--
