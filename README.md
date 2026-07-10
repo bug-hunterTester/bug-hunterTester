@@ -4,8 +4,14 @@
 
   <h2>This is my Portfolio where I'll be sharing all my projects.</h2>
 </div>
-<h3>hola</h3>
-<p>hola</p>
+
+## My Skills and Tools
+Manual Testing and Test Case Managment
+Automation
+API Testing
+Database
+
+
 <!--
 **bug-hunterTester/bug-hunterTester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
